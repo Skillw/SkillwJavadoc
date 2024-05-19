@@ -10,3 +10,7 @@
 	path = buffsystem
 	url = https://github.com/Skillw/BuffSystem.git
 	branch = javadoc
+[submodule "fightsystem"]
+	path = fightsystem
+	url = https://github.com/Skillw/FightSystem.git
+	branch = javadoc
