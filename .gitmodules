@@ -6,3 +6,7 @@
 	path = attsystem
 	url = https://github.com/Skillw/AttributeSystem.git
 	branch = javadoc
+[submodule "buffsystem"]
+	path = buffsystem
+	url = https://github.com/Skillw/BuffSystem.git
+	branch = javadoc
