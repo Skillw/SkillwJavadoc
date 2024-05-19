@@ -1,0 +1,4 @@
+[submodule "pouvoir"]
+	path = pouvoir
+	url = https://github.com/Skillw/Pouvoir.git
+	branch = javadoc
