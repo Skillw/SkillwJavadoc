@@ -2,3 +2,7 @@
 	path = pouvoir
 	url = https://github.com/Skillw/Pouvoir.git
 	branch = javadoc
+[submodule "attsystem"]
+	path = attsystem
+	url = https://github.com/Skillw/AttributeSystem.git
+	branch = javadoc
